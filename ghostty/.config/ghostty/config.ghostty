@@ -1,14 +1,14 @@
 language = de
 
 font-family = "Monaspace Neon NF"
-font-size = 14
+font-size = 12
 
 window-padding-x = 6
 window-padding-y = 6
 window-padding-balance = true
 
-window-width = 132 
-window-height = 44 
+window-width = 200 
+window-height = 60 
 
 window-vsync = true
 confirm-close-surface = false
@@ -21,7 +21,7 @@ clipboard-trim-trailing-spaces = true
 
 right-click-action = ignore
 
-# shell-integration = fish
+shell-integration = fish
 shell-integration-features = no-cursor,ssh-env,ssh-terminfo
 
 keybind = ctrl+shift+1=goto_tab:1
